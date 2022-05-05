@@ -6,7 +6,7 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ![](/design/desktop-preview.jpg)
 
-Link:
+Link: https://lino-otm.github.io/Fylo-landing-page-with-two-column-layout/
 
 ### Built with:
 
