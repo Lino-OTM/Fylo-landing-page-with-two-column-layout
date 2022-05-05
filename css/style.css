@@ -294,4 +294,14 @@ html {
   border: 1px solid #3065f8;
 }
 
+.attribution {
+  text-align: center;
+  font-size: 1.1rem;
+  text-align: start;
+}
+
+.attribution a {
+  color: #ffffff;
+}
+
 /*# sourceMappingURL=style.css.map */
